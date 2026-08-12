@@ -3,7 +3,7 @@ import math
 
 st.title("🍎 ¿Qué fruta es más parecida?")
 
-st.write("Introduce las características de una fruta.")
+st.write(" Introduce las características de la fruta.")
 
 # Datos de la fruta que queremos analizar
 peso = st.number_input("Peso (gramos)", value=180)
