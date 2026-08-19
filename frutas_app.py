@@ -41,9 +41,9 @@ distancia_naranja = math.sqrt(
 )
 
 distancia_mandarina = math.sqrt(
-    (fruta_usuario[0] - Pera[0])**2 +
-    (fruta_usuario[1] - Pera[1])**2 +
-    (fruta_usuario[2] - Pera[2])**2+
+    (fruta_usuario[0] - pera[0])**2 +
+    (fruta_usuario[1] - pera[1])**2 +
+    (fruta_usuario[2] - pera[2])**2
 )
 
 # Mostramos las distancias
